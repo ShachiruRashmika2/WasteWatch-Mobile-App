@@ -13,7 +13,7 @@ WasteWatch is a **University Module Project** built using **React Native**. It f
 ---
 
 ## 💻 My Contribution
-I developed the ***Whole Eco Bin System*** and ***Home Page*** for **WasteWatch**, implementing both frontend and backend functionalities.
+I developed the ***Whole Eco Bin System*** and ***Home Page*** for **WasteWatch**, implementing functionalities.
 
 ### Features I Built:
 - 🗑️ **Eco Bin System**: Designed a comprehensive system for users to manage waste segregation.  
@@ -26,7 +26,6 @@ I developed the ***Whole Eco Bin System*** and ***Home Page*** for **WasteWatch*
 <table>
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50"><br><b>React Native</b></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50"><br><b>Firebase</b></td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="50"><br><b>Expo</b></td>
   </tr>
 </table>
@@ -35,18 +34,15 @@ I developed the ***Whole Eco Bin System*** and ***Home Page*** for **WasteWatch*
 
 ## 📸 Snaps from this Application
 
-<table>
+<table style="border:none;">
   <tr>
-    <td align="center"><img src="client/assets/images/homa1" width="300"></td>
-    <td align="center"><img src="client/assets/images/ecobin" width="300"></td>
+    <td align="center"><img src="https://github.com/ShachiruRashmika2/WasteWatch-Mobile-App/blob/main/client/assets/images/homa1.jpg" width="300"></td>
+    <td align="center"><img src="https://github.com/ShachiruRashmika2/WasteWatch-Mobile-App/blob/main/client/assets/images/ecobin.jpg" width="300"></td>
+    <td align="center"><img src="https://github.com/ShachiruRashmika2/WasteWatch-Mobile-App/blob/main/client/assets/images/ecobin1.jpg" width="300"></td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://github.com/username/WasteWatch/blob/main/frontend/src/assets/images/screenshot3.png" width="300"></td>
-    <td align="center"><img src="https://github.com/username/WasteWatch/blob/main/frontend/src/assets/images/screenshot4.png" width="300"></td>
-  </tr>
+ 
 </table>
 
-![WasteWatch Preview](https://github.com/username/WasteWatch/blob/main/frontend/src/assets/images/screenshot5.png)  
 
 ---
 
