@@ -37,8 +37,8 @@ I developed the ***Whole Eco Bin System*** and ***Home Page*** for **WasteWatch*
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/username/WasteWatch/blob/main/frontend/src/assets/images/screenshot1.png" width="300"></td>
-    <td align="center"><img src="https://github.com/username/WasteWatch/blob/main/frontend/src/assets/images/screenshot2.png" width="300"></td>
+    <td align="center"><img src="client/assets/images/homa1" width="300"></td>
+    <td align="center"><img src="client/assets/images/ecobin" width="300"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/username/WasteWatch/blob/main/frontend/src/assets/images/screenshot3.png" width="300"></td>
