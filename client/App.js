@@ -9,6 +9,9 @@ import Alerts from './screens/Alerts';
 import Collectors from './screens/Collectors'; 
 import Countdown from './screens/Countdown'; 
 import EcoBin from './screens/EcoBin/EcoBin';
+import ManageEcoBin from './screens/EcoBin/ManageEcoBin';
+import CreateEcoBin from './screens/EcoBin/CreateEcoBin';
+
 
 const Stack = createStackNavigator();
 
@@ -24,6 +27,8 @@ export default function App() {
         <Stack.Screen name="Collectors" component={Collectors} /> 
         <Stack.Screen name="Countdown" component={Countdown} /> 
         <Stack.Screen name='EcoBin' component={EcoBin}/>
+        <Stack.Screen name='ManageEcoBin' component={ManageEcoBin}/>
+        <Stack.Screen name='CreateEcoBin' component={CreateEcoBin}/>
       </Stack.Navigator>
     </NavigationContainer>
   );
